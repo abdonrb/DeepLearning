@@ -1,0 +1,18 @@
+[project]
+name = "deeplearning-copy"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "install",
+    "joblib",
+    "nltk",
+    "numpy>=2.2.4",
+    "opencv-python",
+    "pandas>=2.2.3",
+    "scikit-image",
+    "scikit-learn",
+    "seaborn>=0.13.2",
+    "tensorflow",
+]
